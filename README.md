@@ -1,14 +1,12 @@
-## Hi there 👋
-
 # Hi, I'm Gerard
 
-I'm building [No More Happy Path](https://github.com/nomorehappypath/nomorehappypath): an open source system for evidence-gated delivery with AI coding agents.
-No More Happy Path is a development harness for AI coding agents. It helps teams move from “the agent says it works” to evidence-gated delivery with reviewable checks, reproducible tasks, and safer release gates.
+**Others give you an AI developer. NoMoreHappyPath gives you the software company.**
 
-If you're looking for my main current work, start here:
+I'm building [NoMoreHappyPath](https://github.com/nomorehappypath/nomorehappypath), a free and open-source system for building commercial software with AI agents. It gives you every department a software company has, already hired: product, QA, engineering, security, code audit, CTO, release, support and finance. The work is checked by an AI from a different company than the one that built it, through 26 steps from idea to commercial software. You are the CEO: nothing is done until you accept it.
 
-- [nomorehappypath/nomorehappypath](https://github.com/nomorehappypath/nomorehappypath)
+![NoMoreHappyPath in seven layers: the project, the departments, the workforce, the rulebook, the path, the controls and the CEO's desk](nmhp-7-layers.gif)
 
-No More Happy Path is about making agentic coding workflows safer, reviewable, and more reliable by requiring proof instead of optimism.
+- **Start here:** [nomorehappypath/nomorehappypath](https://github.com/nomorehappypath/nomorehappypath)
+- **Website:** [nomorehappypath.com](https://nomorehappypath.com)
 
-Most of the project now lives under the [@nomorehappypath](https://github.com/nomorehappypath) organization.
+Before this, 35 years building and selling commercial fintech software.
